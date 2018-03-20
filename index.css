@@ -1,0 +1,19 @@
+body {
+    background-color: goldenrod;
+}
+
+form {
+    width: 1000px;
+    margin: 100px auto;    
+    
+}
+
+fieldset {
+    background-color: palegoldenrod;
+}
+
+legend, label {
+    font-size: 2em;
+    font-weight: bold;
+    color: darkblue;
+}
